@@ -7,3 +7,4 @@
  })
 
  export default Todo;
+console.log("hello world");
